@@ -1,4 +1,4 @@
-# DOOM 1993 Clone
+# DAMN (DOOM & ULTRAKILL)
 
 A simple **DOOM (1993) clone** made by a team of 4 students using **Unity and C#**.
 
